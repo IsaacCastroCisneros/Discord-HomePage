@@ -1,0 +1,25 @@
+.link
+{
+    text-decoration: none;
+    display: block;
+    font-weight: 600;
+}
+.flex
+{
+    display: flex;
+    align-items: center;
+}
+.container
+{
+    width: 2560px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+.button
+{
+    display: block;
+    cursor: pointer;
+    background-color: #fff;
+    outline: none;
+    border: none;
+}
